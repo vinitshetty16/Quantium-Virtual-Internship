@@ -1,5 +1,5 @@
 # Quantium-Virtual-Internship
-This repository contains my solution to the [Quantium Data Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=DsEXFixxovqkRxR2u) on Forage.
+This repository contains my solution to the [Quantium Data Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=DsEXFixxovqkRxR2u) on Forage
 ## Introduction
 
 Quantium, which was established in 2002, has a long history of data science innovation in various spheres of the business. They are committed to building a team of aspirational, varied, and enjoyable people as a fast expanding worldwide leader in data science and AI.
